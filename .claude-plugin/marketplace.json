@@ -1,0 +1,11 @@
+{
+  "name": "provedores-9router",
+  "owner": { "name": "alexraupp2014-cloud" },
+  "plugins": [
+    {
+      "name": "provedores",
+      "source": "./",
+      "description": "Usa os combos do seu 9router no Claude Code, na conversa e como subagentes"
+    }
+  ]
+}

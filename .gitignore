@@ -1,0 +1,4 @@
+# Written by Claude Code when the mod loads; different on every machine.
+.claude-plugin/types/
+# Generated from your own connectors by scripts/gerar-esquemas.cjs.
+esquemas.json

@@ -1,0 +1,13 @@
+{
+  "name": "provedores",
+  "version": "0.3.0",
+  "description": "Usa os combos do seu 9router no Claude Code: chave Claude/9router acima da caixa de mensagem, combos como subagentes, streaming, cache e economia de tokens, sem mudar o login",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "baseUrl": {
+      "type": "string",
+      "title": "URL do 9router",
+      "description": "Endereço base do seu 9router, terminando em /v1. Pode deixar vazio e informar depois com /provedor url."
+    }
+  }
+}
